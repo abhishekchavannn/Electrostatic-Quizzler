@@ -9,3 +9,5 @@ Being a complete novice in Flutter, this was my first mini quiz application for 
 ## Languages used
 * Dart
 * Java
+## Tests
+<em> Only tested in android </em>
