@@ -10,5 +10,5 @@ Being a complete novice in Flutter, this was my first mini quiz application for 
 * Dart
 * Java
 ## Tests
-<em> Tested in android successfully!</em>
-<em> Tested in iOS emulator successfully!</em>
+* <em> Tested in android successfully!</em>
+* <em> Tested in iOS emulator successfully!</em>
