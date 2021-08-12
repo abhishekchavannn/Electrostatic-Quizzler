@@ -6,4 +6,6 @@ Being a complete novice in Flutter, this was my first mini quiz application for 
 * Just need to select true or false
 * Shows correct or wrong icon at the bottom
 * Added a alert at the end of the quiz
-
+## Languages used
+* Dart
+* Java
